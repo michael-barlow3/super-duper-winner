@@ -1,0 +1,1 @@
+Using bun and vue3.js create a 2 panel web application with an infinite scrolling content panel and a navigation panel which has links which will scroll to the content in the content panel. Add a header panel which is fixed at the top of both the navigation and content panels. Make the content in the content panel searchable
