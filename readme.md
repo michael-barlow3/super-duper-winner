@@ -2,19 +2,22 @@ Using bun and vue3.js create a 2 panel web application with an infinite scrollin
 
 
 
-Setup Instructions
-Install Bun (if not already installed):
+## Setup Instructions
+### Install Bun (if not already installed):
+`
+code> npm install -g bun
+`
 
-bash
-curl https://bun.sh | bash
-Install dependencies:
+### Install dependencies:
+`
+code>bun add vue vite @vitejs/plugin-vue -d
+`
 
-bash
-bun install
-Run the development server:
+`
+code>bun run dev
+`
 
-bash
-bun run dev
+
 Build for production:
 
 bash
